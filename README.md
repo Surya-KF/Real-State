@@ -128,5 +128,3 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to adapt the content based on your specific project structure and features!
